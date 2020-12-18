@@ -1,8 +1,8 @@
-# n8n-heroku (forked by Unly)
+# n8n-heroku-demo (forked by Unly)
 
-![Docker](https://github.com/UnlyEd/n8n-heroku/workflows/Docker/badge.svg) ![Heroku](https://github.com/UnlyEd/n8n-heroku/workflows/Heroku/badge.svg)
+![Docker](https://github.com/UnlyEd/n8n-heroku-demo/workflows/Docker/badge.svg) ![Heroku](https://github.com/UnlyEd/n8n-heroku-demo/workflows/Heroku/badge.svg)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UnlyEd/n8n-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UnlyEd/n8n-heroku-demo)
 
 New method, just click, configure and get your n8n running.
 Also, now set app stack to container and simply connect this Github repo and deploy, heroku uses default configuration from app.json
@@ -67,7 +67,7 @@ you can also deploy this project using container registry (requires aditional re
 ### Steps
 cd into your project directory
 
-    cd n8n-heroku/
+    cd n8n-heroku-demo/
 
 login into heroku account
     
