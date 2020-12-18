@@ -1,5 +1,7 @@
 # n8n-heroku-demo (forked by Unly)
 
+> Fork: This is a fork from https://github.com/sarveshpro/n8n-heroku. We forked to provide a working setup for Heroku, because it [wasn't working](https://github.com/sarveshpro/n8n-heroku/issues/16). _(works as of December 18, 2020)_
+
 ![Docker](https://github.com/UnlyEd/n8n-heroku-demo/workflows/Docker/badge.svg) ![Heroku](https://github.com/UnlyEd/n8n-heroku-demo/workflows/Heroku/badge.svg)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UnlyEd/n8n-heroku-demo)
